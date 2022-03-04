@@ -6,7 +6,7 @@
 
 ## deploy
 ### windows
-        1. Create a mining directory under the working directory,like D:/miner（not C:/）.
+        1. Create a mining directory under the working directory,like D:/miner（not C:/）...
 
         2. Unzip the package into D:/miner.
 
