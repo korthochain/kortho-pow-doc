@@ -5,9 +5,9 @@
 |  [kortho_miner_windows_2.0.1](https://www.kortho.org/file/windows/miner_windows_v2.0.1.zip)  | [kortho_miner_linux_2.0.1](https://www.kortho.org/file/linux/miner_linux_v2.0.1.zip) |
 
 ## 数据包下载地址
-[kortho_data_2.0.1](https://pan.baidu.com/s/1pwkv3StmCafjkpcNyv47gw?pwd=ujr9)
+[kortho_data_2.0.1](https://pan.baidu.com/s/1RdPuD9lNqpYa3s69LREhcQ?pwd=eqpj)
 ```
-提取码：ujr9
+提取码：eqpj
 ```   
 ## 配置安装：
 ### windows下：
