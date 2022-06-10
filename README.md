@@ -4,6 +4,7 @@
 |  :----  | :----  |
 |  [kortho_miner_windows_2.0.1](https://www.kortho.org/file/windows/miner_windows_v2.0.1.zip)  | [kortho_miner_linux_2.0.1](https://www.kortho.org/file/linux/miner_linux_v2.0.1.zip) |
 |  [kortho_miner_windows_2.0.2](https://www.kortho.org/file/windows/miner_windows_v2.0.2.zip)  | [kortho_miner_linux_2.0.2](https://www.kortho.org/file/linux/miner_linux_v2.0.2.zip) |
+|  [kortho_miner_windows_2.0.2](https://www.kortho.org/file/windows/miner_windows_v2.0.3.zip)  | [kortho_miner_linux_2.0.2](https://www.kortho.org/file/linux/miner_linux_v2.0.3.zip) |
 
 ## 数据包下载地址
 [kortho_data_2.0.1](https://pan.baidu.com/s/1qsSssTQen5t4KLM4lH-6eg?pwd=ewyd)
